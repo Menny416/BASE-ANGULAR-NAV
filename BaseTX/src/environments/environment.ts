@@ -3,8 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // URL_SER: 'http://localhost:54079/api/',
+
+   URL_SER: 'http://ap.bsdenterprise.com:8095/apimonitor/api/'
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
